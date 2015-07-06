@@ -84,4 +84,4 @@ recovery, then you have an issue, double check your commands and try again.**
 
 
 
-v0.5.0
+v1.0.0

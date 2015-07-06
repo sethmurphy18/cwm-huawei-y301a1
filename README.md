@@ -53,12 +53,10 @@ Download Link:
     ```bash
       fastboot devices
     ```
-
     You should see a line that says something like
-      ```bash
-        34230cc2        fastboot
-      ```
-
+    ```bash
+      34230cc2        fastboot
+    ```
     **If you don't, check your drivers.**
 
 9. Now type the following command and MAKE SURE YOU TYPE IT CORRECTLY, if you

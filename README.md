@@ -26,10 +26,9 @@ than welcome to flash this to your device, there are a few things to note:
 ## Downloads
 The files for this device are hosted on my Github. The more recent download can
 be retrieved from the link below. If you want an older release, then you need to
-go to the
-[Releases Page](https://github.com/Eagerestwolf/cwm-huawei-y301a1/releases).
+go to the [Releases Page](https://github.com/Eagerestwolf/cwm-huawei-y301a1/releases).
 
-Download Link:
+Download Link: [Latest Release](https://github.com/Eagerestwolf/cwm-huawei-y301a1/releases/latest)
 
 
 ## Installation Instructions

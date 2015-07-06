@@ -1,4 +1,4 @@
-# cwm-huawei-y301a1
+# Clockworkmod Recovery Huawei Valiant
 This is the release of Clockworkmod for the Huawei Valiant. While you are more
 than welcome to flash this to your device, there are a few things to note:
 

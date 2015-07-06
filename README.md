@@ -78,10 +78,4 @@ recovery, then you have an issue, double check your commands and try again.**
 
 
 
-
-
-
-
-
-
-v1.0.1
+v1.1.0

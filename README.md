@@ -75,7 +75,3 @@ Download Link: [Latest Release](https://github.com/Eagerestwolf/cwm-huawei-y301a
 
 **If your device opens Clockworkmod, good you are done. If it pulls up Huawei
 recovery, then you have an issue, double check your commands and try again.**
-
-
-
-v2.0.0
